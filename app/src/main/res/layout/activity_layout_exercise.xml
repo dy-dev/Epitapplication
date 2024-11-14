@@ -21,6 +21,7 @@
         android:text="Bottom" />
 
     <LinearLayout
+        android:id="@+id/ButtonsLayout"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:orientation="horizontal"
@@ -66,4 +67,11 @@
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
         android:text="CheckBox" />
+
+    <ListView
+        android:id="@+id/MyListView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@id/checkBox"
+        android:layout_below="@id/ButtonsLayout"/>
 </RelativeLayout>
