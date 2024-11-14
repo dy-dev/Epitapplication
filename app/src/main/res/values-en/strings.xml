@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EpitApplication</string>
+    <string name="hello">Hello Android And Epita Students!</string>
+    <string name="exercise_2">Second Exercise</string>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EpitApplication</string>
+    <string name="hello">Hello Android And Epita Students!</string>
+    <string name="exercise_2">Exercise 2</string>
+    <string name="thirdInfos" translatable="false">Tests on theme</string>
+    <string name="prog2" translatable="false">Text modify programatically 2</string>
+    <string name="prog1" translatable="false">Text modify programatically 1</string>
+</resources>
