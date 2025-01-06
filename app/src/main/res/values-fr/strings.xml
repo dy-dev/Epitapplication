@@ -3,4 +3,8 @@
     <string name="app_name">EpitApplication</string>
     <string name="hello">Coucou tout le monde</string>
     <string name="exercise_2">Travail numéro 2</string>
+    <string name="easy">Facile</string>
+    <string name="medium">Moyen</string>
+    <string name="hard">Difficile</string>
+    <string name="validate">Valider</string>
 </resources>

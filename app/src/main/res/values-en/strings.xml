@@ -3,4 +3,8 @@
     <string name="app_name">EpitApplication</string>
     <string name="hello">Hello Android And Epita Students!</string>
     <string name="exercise_2">Second Exercise</string>
+    <string name="easy">Easy</string>
+    <string name="medium">Medium</string>
+    <string name="hard">Hard</string>
+    <string name="validate">Validate</string>
 </resources>

@@ -5,4 +5,8 @@
     <string name="thirdInfos" translatable="false">Tests on theme</string>
     <string name="prog2" translatable="false">Text modify programatically 2</string>
     <string name="prog1" translatable="false">Text modify programatically 1</string>
+    <string name="easy">Easy</string>
+    <string name="medium">Medium</string>
+    <string name="hard">Hard</string>
+    <string name="validate">Validate</string>
 </resources>
